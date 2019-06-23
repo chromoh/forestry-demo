@@ -20,3 +20,13 @@ fields:
 - type: list
   name: related_posts
   label: related_posts
+- name: numba
+  type: number
+  label: numba
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
